@@ -1,0 +1,6 @@
+/.eggs
+/build
+.DS_Store
+/dist
+/venv
+/.idea
